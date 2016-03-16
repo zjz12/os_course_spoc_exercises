@@ -1,4 +1,4 @@
-  pde index:0x19  pde contents:(0x7f, bin: , valid 0, pfn 0x7f(page 0x7f))
+	pde index:0x19  pde contents:(0x7f, bin: , valid 0, pfn 0x7f(page 0x7f))
 		Fault (page directory entry not valid)
 	
 	pde index:0x7  pde contents:(0xbd, bin: , valid 1, pfn 0x3d(page 0x3d))
