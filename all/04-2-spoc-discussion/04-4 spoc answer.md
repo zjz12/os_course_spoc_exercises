@@ -1,8 +1,8 @@
 > index:0x19  pde contents:(0x7f, bin: , valid 0, pfn 0x7f(page 0x7f))
-	>Fault (page directory entry not valid)
+>Fault (page directory entry not valid)
 	
 >pde index:0x7  pde contents:(0xbd, bin: , valid 1, pfn 0x3d(page 0x3d))
-	>pte index:0x0  pte contents:(0xf6, bin: , valid 1, pfn 0x76)
+>pte index:0x0  pte contents:(0xf6, bin: , valid 1, pfn 0x76)
  		>To Physical Address 0xed3 --> value : 0x12
 	
 >pde index:0x1a  pde contents:(0x7f, bin: , valid 0, pfn 0x7f(page 0x7f))
